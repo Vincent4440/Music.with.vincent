@@ -1,0 +1,11 @@
+{
+  "TOKEN": "", //Your bot token here
+  "YOUTUBE_API_KEY": "",  //Your API key here
+  "SOUNDCLOUD_CLIENT_ID": "",  //Not compulsory to full
+  "MAX_PLAYLIST_SIZE": 10,  //Don't change this
+  "PREFIX": "/",  //Set your desired prefix
+  "PRUNING": false, //Donot change
+  "LOCALE": "en",  //Your desired language.. Current default language is English.
+  "STAY_TIME": 30, //Donot change this
+  "DEFAULT_VOLUME": 100 //Default volume
+}
