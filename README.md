@@ -1,4 +1,6 @@
-# Music.with.vincent
+
+# ProMusic (Discord Music bot)
+> ProMusic is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -131,4 +133,6 @@ Examples: `1` or `1,2,3`
 [@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
 
 => This bot was designed by evoBot and edited by VINCENT 444#8079
+
+
 
