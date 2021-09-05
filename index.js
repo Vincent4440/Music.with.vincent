@@ -119,4 +119,4 @@ client.on("message", async (message) => {
   }
 });
 
-//bot designed by evobot and edited by 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0#6766 donot share without credits!!
+//bot designed by evobot and edited by VINCENT 444#8079 donot share without credits!!
